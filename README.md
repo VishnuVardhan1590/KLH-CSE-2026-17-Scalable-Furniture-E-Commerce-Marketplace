@@ -14,6 +14,17 @@
 **Supervisor Name:** RajKumar Patil
 
 ---
+---
+
+## Abstract
+
+The abstract of the project is provided as a separate PDF document.
+
+**[View Abstract](docs/projectAbstract.pdf)**
+
+---
+
+
 
 ## Abstract
 
